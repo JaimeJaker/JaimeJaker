@@ -29,3 +29,18 @@
 ## 📫 Puedes contactarme en:
 
 - ✉️ Email: [jaimedarley16@gmail.com]
+
+## 🧑‍🤝‍🧑 Proyectos Grupales
+
+### 🔐 [FortiFile]([https://github.com/tu_organizacion_o_user/FortiFile](https://github.com/andrefalar/Software-Engeneering-1.git))
+
+Aplicación de escritorio segura para gestionar archivos confidenciales.  
+Desarrollada como proyecto académico para **Ingeniería de Software I (2025-1)** en la Universidad Nacional.
+
+**Tecnologías:** Python, PyQt5, SQLite, Cryptography, bcrypt
+
+**Mi rol:**
+- Desarrollo de funcionalidades del backend en Python
+- Implementación de cifrado de archivos con `cryptography`
+- Colaboración en diseño y ejecución de pruebas con `pytest`
+- Participación en scripts de automatización (`init_project.sh`, `dev_run.sh`)
