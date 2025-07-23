@@ -32,7 +32,7 @@
 
 ## 🧑‍🤝‍🧑 Proyectos Grupales
 
-### 🔐 [FortiFile]([https://github.com/tu_organizacion_o_user/FortiFile](https://github.com/andrefalar/Software-Engeneering-1.git))
+### 🔐 [FortiFile](https://github.com/andrefalar/Software-Engeneering-1)
 
 Aplicación de escritorio segura para gestionar archivos confidenciales.  
 Desarrollada como proyecto académico para **Ingeniería de Software I (2025-1)** en la Universidad Nacional.
@@ -44,3 +44,4 @@ Desarrollada como proyecto académico para **Ingeniería de Software I (2025-1)*
 - Implementación de cifrado de archivos con `cryptography`
 - Colaboración en diseño y ejecución de pruebas con `pytest`
 - Participación en scripts de automatización (`init_project.sh`, `dev_run.sh`)
+
