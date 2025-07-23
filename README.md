@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jaime Darley Angulo Tenorio
 
-<!--
-**JaimeJaker/JaimeJaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Actualmente aprendiendo más sobre desarrollo de software, estructuras de datos y sistemas distribuidos.
+- 🔧 Tengo experiencia básica con los lenguajes:
+  - `Python` 🐍
+  - `Java` ☕ (nivel intermedio)
+  - `C++` / `C`
+- 🗃️ Bases de datos que he utilizado:
+  - `PostgreSQL`
+  - `SQLite`
+
+## 📌 Intereses
+
+- Desarrollo backend
+- Inteligencia artificial y ciencia de datos
+- Diseño de software y patrones de arquitectura
+- Redes y sistemas operativos
+
+## 📚 Actualmente aprendiendo
+
+- Principios SOLID y buenas prácticas de programación
+- Git & GitHub de forma más avanzada
+- Fundamentos de DevOps y automatización
+
+## 📫 Puedes contactarme en:
+
+- ✉️ Email: [jaimedarley16@gmail.com]
