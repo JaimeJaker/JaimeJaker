@@ -22,9 +22,11 @@
 
 ## 📚 Actualmente aprendiendo
 
-- Principios SOLID y buenas prácticas de programación
-- Git & GitHub de forma más avanzada
 - Fundamentos de DevOps y automatización
+- Patrones de diseño de software
+- Testing con `pytest` y `unittest`
+- Buenas prácticas de seguridad en software
+
 
 ## 📫 Puedes contactarme en:
 
