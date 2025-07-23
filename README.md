@@ -4,14 +4,14 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Actualmente aprendiendo más sobre desarrollo de software, estructuras de datos y sistemas distribuidos.
-- 🔧 Tengo experiencia básica con los lenguajes:
-  - `Python` 🐍
-  - `Java` ☕ (nivel intermedio)
-  - `C++` / `C`
-- 🗃️ Bases de datos que he utilizado:
-  - `PostgreSQL`
-  - `SQLite`
+## 🛠️ Tecnologías que manejo
+
+| Lenguajes | Bases de Datos | Herramientas | Otros |
+| --------- | -------------- | ------------ | ----- |
+| Python 🐍 | PostgreSQL 🐘   | Git & GitHub | POO |
+| Java ☕   | SQLite 📁       | VS Code ⚙️   | Bash |
+| C / C++   |                | Makefile ⚒️  | Markdown |
+
 
 ## 📌 Intereses
 
