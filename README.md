@@ -30,7 +30,9 @@
 
 ## 📫 Puedes contactarme en:
 
-- ✉️ Email: [jaimedarley16@gmail.com]
+- ✉️ Email personal: [jaimedarley16@gmail.com](mailto:jaimedarley16@gmail.com)
+- ✉️ Correo Institucional: [jangulot@unal.edu.co](mailto:jangulot@unal.edu.co)
+- ✉️ Correo personal 2: [jaimedarley18@gmail.com](mailto:jaimedarley18@gmail.com)
 
 ## 🧑‍🤝‍🧑 Proyectos Grupales
 
