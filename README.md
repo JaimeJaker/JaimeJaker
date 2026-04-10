@@ -1,51 +1,96 @@
 # 👋 ¡Hola! Soy Jaime Darley Angulo Tenorio
 
-🎓 Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**.
+🎓 Estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**.
+
+💡 Apasionado por el **desarrollo backend**, la **seguridad informática** y el diseño de sistemas eficientes.
+Me interesa construir software robusto, escalable y bien estructurado.
+
+---
 
 ## 🚀 Sobre mí
 
-## 🛠️ Tecnologías que manejo
+* 💻 Experiencia desarrollando aplicaciones backend y herramientas de sistema
+* 🔐 Interés en seguridad (cifrado, manejo de archivos, autenticación)
+* ⚙️ Enfoque en buenas prácticas (testing, automatización, arquitectura)
+* 📚 Aprendiz constante en tecnologías modernas y DevOps
 
-| Lenguajes | Bases de Datos | Herramientas | Otros |
-| --------- | -------------- | ------------ | ----- |
-| Python 🐍 | PostgreSQL 🐘   | Git & GitHub | POO |
-| Java ☕   | SQLite 📁       | VS Code ⚙️   | Bash |
-| C / C++   |                | Makefile ⚒️  | Markdown |
+---
 
+## 🛠️ Tecnologías
+
+| Categoría          | Tecnologías                                                                |
+| ------------------ | -------------------------------------------------------------------------- |
+| **Lenguajes**      | Python (Intermedio), Java (Intermedio), C/C++ (Básico-Intermedio)          |
+| **Bases de Datos** | PostgreSQL, SQLite                                                         |
+| **Herramientas**   | Git, GitHub, VS Code, Bash, Makefile                                       |
+| **Otros**          | POO, estructuras de datos, testing (pytest, unittest), criptografía básica |
+
+---
 
 ## 📌 Intereses
 
-- Desarrollo backend
-- Inteligencia artificial y ciencia de datos
-- Diseño de software y patrones de arquitectura
-- Redes y sistemas operativos
+* Backend y APIs
+* Seguridad informática
+* Inteligencia artificial y ciencia de datos
+* Sistemas operativos y redes
+* Arquitectura de software
+
+---
 
 ## 📚 Actualmente aprendiendo
 
-- Fundamentos de DevOps y automatización
-- Patrones de diseño de software
-- Testing con `pytest` y `unittest`
-- Buenas prácticas de seguridad en software
+* DevOps y automatización
+* Patrones de diseño
+* Testing avanzado
+* Buenas prácticas de seguridad
 
+---
 
-## 📫 Puedes contactarme en:
+## 🧑‍💻 Proyectos
 
-- ✉️ Email personal: [jaimedarley16@gmail.com](mailto:jaimedarley16@gmail.com)
-- ✉️ Correo Institucional: [jangulot@unal.edu.co](mailto:jangulot@unal.edu.co)
-- ✉️ Correo personal 2: [jaimedarley18@gmail.com](mailto:jaimedarley18@gmail.com)
+### 🔐 FortiFile
 
-## 🧑‍🤝‍🧑 Proyectos Grupales
+🔗 https://github.com/andrefalar/Software-Engeneering-1
 
-### 🔐 [FortiFile](https://github.com/andrefalar/Software-Engeneering-1)
-
-Aplicación de escritorio segura para gestionar archivos confidenciales.  
-Desarrollada como proyecto académico para **Ingeniería de Software I (2025-1)** en la Universidad Nacional.
+Aplicación de escritorio para la gestión segura de archivos confidenciales.
 
 **Tecnologías:** Python, PyQt5, SQLite, Cryptography, bcrypt
 
 **Mi rol:**
-- Desarrollo de funcionalidades del backend en Python
-- Implementación de cifrado de archivos con `cryptography`
-- Colaboración en diseño y ejecución de pruebas con `pytest`
-- Participación en scripts de automatización (`init_project.sh`, `dev_run.sh`)
 
+* Desarrollo backend en Python
+* Implementación de cifrado de archivos
+* Integración de autenticación segura
+* Testing con `pytest`
+* Automatización con scripts Bash
+
+---
+
+### ⚙️ Proyectos personales
+
+#### 📁 Administrador de archivos cifrados
+
+* Aplicación para almacenar archivos de forma segura
+* Uso de cifrado para proteger la información
+
+#### 🔌 Proyectos con ESP32
+
+* Control de LEDs y botones
+* Desarrollo de lógica embebida
+* Uso de FreeRTOS y pantallas OLED
+
+#### 🌐 Desarrollo web (backend)
+
+* Creación de bases de datos
+* Lógica de servidor
+* Integración básica con frontend
+
+---
+
+## 📫 Contacto
+
+* ✉️ [jaimedarley16@gmail.com](mailto:jaimedarley16@gmail.com)
+* ✉️ [jangulot@unal.edu.co](mailto:jangulot@unal.edu.co)
+* ✉️ [jaimedarley18@gmail.com](mailto:jaimedarley18@gmail.com)
+
+---
