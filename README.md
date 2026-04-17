@@ -118,16 +118,9 @@ Aplicación web tipo **Single Page Application (SPA)** que consume la API backen
 
 ---
 
-### 🧩 Arquitectura del sistema
-[ React + TypeScript (Frontend) ]
-↓
-HTTP (Axios)
-↓
-[ Spring Boot API (Backend) ]
-↓
-JPA / Hibernate
-↓
-MySQL
+## 🧩 Arquitectura del sistema
+
+`React + TypeScript (Frontend)` → `HTTP (Axios)` → `Spring Boot API (Backend)` → `JPA / Hibernate` → `MySQL`
 
 
 ---
